@@ -15,8 +15,10 @@ format:
 
 ## Reflection
 
-\[Write your experience building and deploying the website here.\]
+\[Through this project, I gained a deeper understanding of the end-to-end development process, from coding to deployment. I learned how to structure files effectively, manage version control, and troubleshoot unexpected errors. One surprising insight was how small mistakes, such as an incorrect file path or a missing dependency, could prevent the entire project from running.
+I faced several technical challenges along the way. GitHub authentication was initially tricky, requiring careful setup of SSH keys and token permissions. I also encountered deployment errors, including misconfigured environment variables and navigation issues within the application. I resolved these by systematically debugging, consulting documentation, and testing changes incrementally. Each challenge reinforced the importance of attention to detail, patience, and persistence in problem-solving.
+Overall, this experience enhanced my technical skills and strengthened my confidence in managing complex development workflows, while also highlighting the value of methodical troubleshooting and continuous learning.\]
 
 ## Website Overview
 
-\[Briefly describe your website contents in less than 75 words.\]
+\[The website is a salon site featuring a gallery of work, an employee section, and a “Contact Us” area. It includes navigation links that smoothly take users to each part of the page, making it easy to explore services, view staff, and get in touch. The design highlights the salon’s work and provides a user-friendly experience.\]
