@@ -1,0 +1,23 @@
+---
+title: "Meet Our Stylists"
+format:
+  html:
+   theme: darkly
+   css: styles.css
+---
+
+Our team of expert stylists blends creativity, precision, and passion to give you a look that’s uniquely yours.\
+
+<a href="gallery.html">
+
+::: {.card .stylist-card}
+![](merlyn%20white.tiff){.stylist-photo alt="Merlyn White"}
+
+<h3>Merlyn White</h3>
+
+<strong>Master Stylist & Owner</strong>
+
+<p>With over 10 years of experience, Merlyn White is a master of color and precision. She specializes in alternative and edgy cuts, bringing creativity and bold style to every client. Passionate about vivid colors and personal connections, Merlyn takes the time to understand your vision. Each appointment begins with a thorough consultation to ensure your look is tailored perfectly to your style and needs.</p>
+:::
+
+</a>

@@ -1,0 +1,22 @@
+---
+title: "Website Deployment Reflection"
+author: "Merlyn White, 577490824"
+format:
+  html:
+    theme: darkly
+    css: styles.css
+---
+
+## Website Information
+
+**Live Website URL:** <https://nightshadesalon.github.io/nightshade-salon>\
+**GitHub Repository URL:** <https://github.com/nightshadesalon/nightshade-salon>\
+**Project Type:** Individual Website
+
+## Reflection
+
+\[Write your experience building and deploying the website here.\]
+
+## Website Overview
+
+\[Briefly describe your website contents in less than 75 words.\]
