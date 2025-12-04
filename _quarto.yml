@@ -1,0 +1,40 @@
+project:
+  type: website
+
+output_dir: docs
+
+website:
+  title: "Nightshade Salon"
+  navbar:
+    background: transparent
+    left:
+      - href: index.qmd
+        text: Home
+      - href: services.qmd
+        text: Services
+      - href: stylists.qmd
+        text: Stylists
+      - href: gallery.qmd
+        text: Gallery
+      - href: contact-us.qmd
+        text: Contact
+      - href: reflection.qmd
+        text: Reflection
+    right:
+      - text: "GitHub"
+        href: "https://github.com/nightshadesalon/nightshade-salon"
+        target: "_blank"
+      - text: "Live Site"
+        href: "https://nightshadesalon.github.io/nightshade-salon/"
+        target: "_blank"
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: false
+
+# Extra metadata
+live_website_url: "https://nightshadesalon.github.io/nightshade-salon"
+github_repository_url: "https://github.com/nightshadesalon/nightshade-salon/"
+project_type: "Individual Website"
